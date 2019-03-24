@@ -1,0 +1,7 @@
+git config --global user.name "your name"
+
+git config --global user.email "your email"
+
+git config user.name 查看当前的git用户名
+
+git config user.email 查看当前的git邮箱
