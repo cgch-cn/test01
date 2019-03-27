@@ -5,3 +5,5 @@ git config --global user.email "your email"
 git config user.name 查看当前的git用户名
 
 git config user.email 查看当前的git邮箱
+
+每次启动gitbash是否都要重新配置username和useremail？
